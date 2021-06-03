@@ -1,4 +1,3 @@
-;Note to self quickin loans
 
 (setq inhibit-startup-message t)
 

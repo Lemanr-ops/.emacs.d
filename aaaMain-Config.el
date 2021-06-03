@@ -1,6 +1,6 @@
 ;Note to self quickin loans
 
-(setq inhibit-startup-message t) ; grain9405strap6256
+(setq inhibit-startup-message t)
 
 (tool-bar-mode 1)          ; Disable the toolbar
 (tooltip-mode -1)           ; Disable tooltips
